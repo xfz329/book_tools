@@ -1,0 +1,20 @@
+﻿插件名,作用,是否已安装
+"search-pro,",支持中文搜索,是
+"back-to-top-button, ",添加返回至页面顶端,是
+"code,",为代码块添加行号,是
+"copy-code-button,",代码块添加复制的按钮,是
+"theme-comscore,",显示主题优化,是
+"splitter,",侧边栏宽度调整,是
+"hide-element,",隐藏界面元素,是
+"page-treeview,",页面增加导航,是
+"popup,",在新页面打开图片,是
+"expandable-chapters,",支持多层目录,是
+"chapter-fold,",支持导航目录,是
+"katex,",数学公式支持,是
+"prism,",代码块颜色优化显示,是
+"insert-logo,",左边标题栏插入logo,是
+"diff,",字符比较,是
+"include-csv,",插入cvs文件,是
+chart,插入表格,是
+mermaid-gb3,插入流程图、时序图等,否
+puml,插入uml图,否
