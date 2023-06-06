@@ -30,12 +30,24 @@ Gitbook默认带有7个插件（功能性5个，搜索有两个，主题一个�
 
 ## 一些插件的用法示例
 
+### page-treeview
+
+默认page-treeview会带有版权信息。
+
+![1](../images/page-tree-view.jpg)
+
+
+如果不想要，需要在插件目录中打开：`/node_modules/gitbook-plugin-page-treeview/lib/index.js`。
+将97行改成
+```
+  return renderContent;
+```
 
 ### diff
 
 类似git的代码比较，有多种比较方式，参见[这里](https://snowdreams1006.github.io/gitbook-plugin-diff/zh/)
 
-{% diff method="diffTrimmedLines",options={"newlineIsToken":true} %}
+{% diff %}
 ```bash
 beep boop
 the cat is palying with cap

@@ -46,7 +46,7 @@ windows下需要先安装calibre，点击[这里](https://calibre-ebook.com/down
 
 参见[这里](https://www.jianshu.com/p/617a467bfe40)
 
-需要单独设置的文件，打开`/.gitbook/versions/3.2.3/lib/output/ebook/onFinish.js`进行以下代码的修改。
+需要单独设置的文件，打开`/.gitbook/versions/3.2.3/lib/output/ebook/getConvertOptions.js`进行以下代码的修改。
 {% diff method="diffTrimmedLines" %}
 ```
 '--chapter':                    'descendant-or-self::*[contains(concat(\' \', normalize-space(@class), \' \'), \' book-chapter \')]',

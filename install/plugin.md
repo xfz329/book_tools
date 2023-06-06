@@ -15,5 +15,6 @@ npm install gitbook-plugin-search-pro gitbook-plugin-back-to-top-button gitbook-
 npm install gitbook-plugin-splitter gitbook-plugin-hide-element gitbook-plugin-page-treeview gitbook-plugin-popup
 npm install gitbook-plugin-expandable-chapters gitbook-plugin-chapter-fold gitbook-plugin-katex
 npm install gitbook-plugin-prism gitbook-plugin-insert-logo gitbook-plugin-diff
-npm install gitbook-plugin-theme-comscore
+npm install gitbook-plugin-theme-comscore gitbook-pulgin-include-csv gitbook-pulgin-chart gitbook-plugin-wide-page
+npm install csv-parse@4.9.1
 ```

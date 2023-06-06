@@ -53,9 +53,9 @@
             "style": "background: none; max-height: 100px; min-height: 60px"
         },
         "diff": {
-            "method": "diffChars",
+            "method": "diffTrimmedLines",
             "options": {
-                "ignoreCase": true
+                "newlineIsToken": true
             }
         }
     }
