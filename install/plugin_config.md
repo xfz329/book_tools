@@ -34,7 +34,8 @@
         "insert-logo",
         "diff",
         "include-csv",
-        "chart"
+        "chart",
+        "wide-page"
     ],
     "pluginsConfig": {
         "code": {
