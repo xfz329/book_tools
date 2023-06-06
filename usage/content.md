@@ -38,9 +38,6 @@ gitbook serve
 ```
 gitbook pdf
 ```
-windows下需要先安装calibre，点击[这里](https://calibre-ebook.com/download_windows64)，
-下载安装，默认会配置好环境变量，在终端下测试`ebook-convert –version`，有如下输出则成功。
-![1](../images/calibre.jpg)
 
 ### pdf导出过程中的问题及解决
 

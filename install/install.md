@@ -62,3 +62,9 @@ nvm use v12.22.12
 
 终端下输入命令`gitbook -V`即可完成安装
 
+## 安装calibre
+
+点击[这里](https://calibre-ebook.com/download_windows64)，
+下载安装，默认会配置好环境变量，在终端下测试`ebook-convert –version`，有如下输出则成功。
+
+![1](../images/calibre.jpg)
